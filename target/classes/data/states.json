@@ -1,0 +1,270 @@
+[
+	{
+		"code":"AL",
+		"name": "Alabama",
+		"capital": "Montgomery"
+
+	},
+	{
+		"code":"AK",
+		"name": "Alaska",
+		"capital": "Juneau"
+
+	},
+	{
+		"code":"AZ",
+		"name": "Arizona",
+		"capital": "Phoenix"
+	},
+	{
+		"code":"AR",
+		"name": "Arkansas",
+		"capital": "Little Rock"
+	},
+	{
+
+		"name": "California",
+		"capital": "Sacramento",
+		"code": "CA"
+
+	},
+	{
+		"name": "Colorado",
+		"capital": "Denver",
+		"code": "CO"
+
+	},
+	{
+		"name": "Connecticut",
+		"capital": "Hartford",
+		"code": "CT"
+
+	},
+	{
+		"name": "Delaware",
+		"capital": "Dover",
+		"code": "DE"
+	},
+	{
+		"name": "Florida",
+		"capital": "Tallahassee",
+		"code": "FL"
+	},
+	{
+		"name": "Georgia",
+		"capital": "Atlanta",
+		"code": "GA"
+	},
+	{
+		"name": "Hawaii",
+		"capital": "Honolulu",
+		"code": "HI"
+
+	},
+	{
+		"name": "Idaho",
+		"capital": "Boise",
+		"code": "ID"
+
+	},
+	{
+		"name": "Illinois",
+		"capital": "Springfield",
+		"code": "IL"
+
+	},
+	{
+		"name": "Indiana",
+		"capital": "Indianapolis",
+		"code": "IN"
+
+	},
+	{
+		"name": "Iowa",
+		"capital": "Des Moines",
+		"code": "IA"
+
+	},
+	{
+		"name": "Kansas",
+		"capital": "Topeka",
+		"code": "KS"
+
+	},
+	{
+		"name": "Kentucky",
+		"capital": "Frankfort",
+		"code": "KY"
+	},
+	{
+		"name": "Louisiana",
+		"capital": "Baton Rouge",
+		"code": "LA"
+	},
+	{
+		"name": "Maine",
+		"capital": "Augusta",
+		"code": "ME"
+	},
+	{
+		"name": "Maryland",
+		"capital": "Annapolis",
+		"code": "MD"
+	},
+	{
+		"name": "Massachusetts",
+		"capital": "Boston",
+		"code": "MA"
+	},
+	{
+		"name": "Michigan",
+		"capital": "Lansing",
+		"code": "MI"
+	},
+	{
+		"name": "Minnesota",
+		"capital": "Saint Paul",
+		"code": "MN"
+	},
+	{
+		"name": "Mississippi",
+		"capital": "Jackson",
+		"code": "MS"
+	},
+	{
+		"name": "Missouri",
+		"capital": "Jefferson City",
+		"code": "MO"
+	},
+	{
+		"name": "Montana",
+		"capital": "Helana",
+		"code": "MT"
+	},
+	{
+		"name": "Nebraska",
+		"capital": "Lincoln",
+		"code": "NE"
+	},
+	{
+		"name": "Nevada",
+		"capital": "Carson City",
+		"code": "NV"
+	},
+	{
+		"name": "New Hampshire",
+		"capital": "Concord",
+		"code": "NH"
+	},
+	{
+		"name": "New Jersey",
+		"capital": "Trenton",
+		"code": "NJ"
+	},
+	{
+		"name": "New Mexico",
+		"capital": "Santa Fe",
+		"code": "NM"
+
+	},
+	{
+		"name": "New York",
+		"capital": "Albany",
+		"code": "NY"
+	},
+	{
+		"name": "North Carolina",
+		"capital": "Raleigh",
+		"code": "NC"
+	},
+	{
+		"name": "North Dakota",
+		"capital": "Bismarck",
+		"code": "ND"
+	},
+	{
+		"name": "Ohio",
+		"capital": "Columbus",
+		"code": "OH"
+	},
+	{
+		"name": "Oklahoma",
+		"capital": "Oklahoma City",
+		"code": "OK"
+	},
+	{
+		"name": "Oregon",
+		"capital": "Salem",
+		"code": "OR"
+	},
+	{
+		"name": "Pennsylvania",
+		"capital": "Harrisburg",
+		"code": "PA"
+	},
+	{
+		"name": "Rhode Island",
+		"capital": "Providence",
+		"code": "RI"
+	},
+	{
+		"name": "South Carolina",
+		"capital": "Columbia",
+		"code": "SC"
+	},
+	{
+		"name": "South Dakota",
+		"capital": "Pierre",
+		"code": "SD"
+	},
+	{
+		"name": "Tennessee",
+		"capital": "Nashville",
+		"code":"TN"
+
+	},
+	{
+		"name": "Texas",
+		"capital": "Austin",
+		"code": 	"TX"
+
+	},
+	{
+		"name": "Utah",
+		"capital": "Salt Lake City",
+		"code": "UT"
+	},
+	{
+		"name": "Vermont",
+		"capital": "Montpelier",
+		"code": "VT"
+	},
+	{
+		"name": "Virginia",
+		"capital": "Richmond",
+		"code": "VA"
+	},
+	{
+		"name": "Washington",
+		"capital": "Olympia",
+		"code": "WA"
+	},
+	{
+		"name": "West Virginia",
+		"capital": "Charleston",
+		"code": "WV"
+	},
+	{
+		"name": "Wisconsin",
+		"capital": "Madison",
+		"code": "WI"
+
+	},
+	{
+		"name": "Wyoming",
+		"capital": "Cheyenne",
+		"code": "WY"
+	}
+]
+
+
